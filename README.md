@@ -24,3 +24,6 @@
 ```
 
 In future, if there are any API errors, we need the following information to investigate the issue:  Plain text logs of the API errors and screenshots would be preferable to Fiddler trace files. We tried installing Fiddler, but it can't be easily installed on OS X.
+
+
+## HA-proxy 2602
