@@ -27,3 +27,7 @@ In future, if there are any API errors, we need the following information to inv
 
 
 ## HA-proxy 2602
+
+
+
+`playrix_issue* AND service:moby_hourglass_consumer AND CRT`
